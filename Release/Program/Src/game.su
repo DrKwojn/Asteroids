@@ -1,0 +1,12 @@
+../Program/Src/game.c:132:6:menu_init	0	static
+../Program/Src/game.c:157:6:score_init	0	static
+../Program/Src/game.c:186:6:spawn_ship	32	static
+../Program/Src/game.c:194:6:spawn_asteroid	56	static
+../Program/Src/game.c:211:6:level_setup	64	static
+../Program/Src/game.c:161:6:score_tick	80	static
+../Program/Src/game.c:136:6:menu_tick	16	static
+../Program/Src/game.c:235:6:level_init	0	static
+../Program/Src/game.c:247:6:level_tick	208	static
+../Program/Src/game.c:423:6:swap_scene	0	static
+../Program/Src/game.c:436:6:game_init	8	static
+../Program/Src/game.c:451:6:game_tick	24	static

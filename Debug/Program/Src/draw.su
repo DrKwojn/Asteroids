@@ -1,0 +1,16 @@
+../Program/Src/draw.c:6:5:rgb_888_to_565	24	static
+../Program/Src/draw.c:14:5:rgb_565_to_888	32	static
+../Program/Src/draw.c:23:5:xy_to_index	16	static
+../Program/Src/draw.c:31:4:get_pixel_color	24	static
+../Program/Src/draw.c:37:4:set_pixel_color	32	static
+../Program/Src/draw.c:43:6:set_palette_color	24	static
+../Program/Src/draw.c:52:6:draw_pixel	40	static
+../Program/Src/draw.c:63:6:draw_line	64	static
+../Program/Src/draw.c:101:6:draw_rect	48	static
+../Program/Src/draw.c:128:6:fill_rect	48	static
+../Program/Src/draw.c:153:6:draw_char	48	static
+../Program/Src/draw.c:178:6:draw_string	32	static
+../Program/Src/draw.c:185:6:draw_shape	64	static
+../Program/Src/draw.c:214:6:clear_screen	24	static
+../Program/Src/draw.c:218:6:draw_init	8	static
+../Program/Src/draw.c:227:6:draw_push	48	static

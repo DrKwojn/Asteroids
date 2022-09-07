@@ -1,0 +1,16 @@
+../Drivers/external/lcd_ili9341.c:65:6:ILI9341_SetAddress	0	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:76:6:ILI9341_SendData	4	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:89:6:ILI9341_SendRepeatedData	0	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:103:9:ILI9341_SendDataDMA	8	static
+../Drivers/external/lcd_ili9341.c:138:6:ILI9341_RecvData	4	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:150:6:ILI9341_SetOrientation	0	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:181:6:ILI9341_SetDisplayWindow	16	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:215:6:ILI9341_Init	16	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:265:6:ILI9341_WaitTransfer	0	static
+../Drivers/external/lcd_ili9341.c:273:6:ILI9341_DisplayOn	0	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:280:6:ILI9341_DisplayOff	0	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:287:6:ILI9341_InvertDisplay	0	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:296:6:ILI9341_SetSleep	0	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:309:6:ILI9341_SetScrollArea	16	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:332:6:ILI9341_ScrollScreen	0	static,ignoring_inline_asm
+../Drivers/external/lcd_ili9341.c:358:10:ILI9341_GetParam	0	static

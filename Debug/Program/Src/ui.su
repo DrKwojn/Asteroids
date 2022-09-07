@@ -1,0 +1,5 @@
+../Program/Src/ui.c:6:6:ui_touch_inside	40	static
+../Program/Src/ui.c:11:6:ui_init	4	static
+../Program/Src/ui.c:15:6:ui_start	4	static
+../Program/Src/ui.c:19:6:ui_end	24	static
+../Program/Src/ui.c:26:6:ui_button	56	static
